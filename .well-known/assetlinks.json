@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.binamulle.free",
+      "sha256_cert_fingerprints": [
+        "D7:87:CD:86:37:62:12:7D:C2:16:63:0A:1D:39:1D:C3:91:C4:40:F2:A3:81:75:43:3F:9A:78:B8:17:FC:01:49"
+      ]
+    }
+  }
+]
